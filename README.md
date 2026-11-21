@@ -36,3 +36,4 @@ Based in Astana, Kazakhstan. Open to remote and international roles. Stack: Type
 ## Contact
 
 - LinkedIn: [linkedin.com/in/max-underdot](https://www.linkedin.com/in/max-underdot)
+- Telegram: [@underdot_dev](https://t.me/underdot_dev)
